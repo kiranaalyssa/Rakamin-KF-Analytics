@@ -1,6 +1,5 @@
 -- Top 10 Nett Sales Cabang Provinsi
 SELECT
-    kc.branch_name,
     kc.provinsi,
     SUM(ROUND(pd.price * (1 - ft.discount_percentage), 2)) AS total_nett_sales
 FROM
@@ -14,7 +13,7 @@ JOIN
 ON
     ft.branch_id = kc.branch_id
 GROUP BY
-    kc.branch_name, kc.provinsi
+    kc.provinsi
 ORDER BY
     total_nett_sales DESC
 LIMIT 10;
