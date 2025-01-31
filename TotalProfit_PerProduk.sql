@@ -1,7 +1,6 @@
 --Total Profit Per Produk 
 SELECT
     pd.product_name,
-    pd.product_category,
     SUM(
         (pd.price * (1 - ft.discount_percentage)) *
         CASE
@@ -19,6 +18,7 @@ JOIN
 ON
     ft.product_id = pd.product_id
 GROUP BY
-    pd.product_name, pd.product_category
+    pd.product_name
 ORDER BY
-    nett_profit DESC;
+    nett_profit DESC
+LIMIT 5;
