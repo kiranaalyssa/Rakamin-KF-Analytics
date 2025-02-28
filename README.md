@@ -1,2 +1,9 @@
 # Rakamin-KF-Analytics
-This project is the final assignment of the Virtual Internship at Rakamin Academy - Kimia Farma as a Big Data Analyst. The goal is to gain insights into Kimia Farma's business performance from 2020 to 2023. BigQuery is used for data processing and merging, while Looker Studio is used to visualize the analysis results.
+
+This repository contains the final assignment for the Project-Based Virtual Internship at Rakamin Academy in collaboration with Kimia Farma as a Big Data Analyst. The objective of this project is to analyze Kimia Farma's business performance from 2020 to 2023 and generate valuable insights.
+
+**Tools Used:**
+🗃️ BigQuery – Used for data processing and merging.
+📊 Looker Studio – Utilized for visualizing the analysis results.
+
+This project showcases the application of data analytics in a real business scenario, providing a deeper understanding of Kimia Farma's performance over the years.
