@@ -26,12 +26,12 @@ The dashboard shows data in the form of actual numbers and visual charts. Here i
 
 1. **Key Performance Indicators (KPIs) that show real-time data counts**
 The summary section is used to display the company’s actual data, including:
-* Total profit
-* Total sales
-* Total number of customers
-* Total transactions
-* Total products
-* Average branch rating
+* Total Profit
+* Total Sales
+* Total Number of Customers
+* Total Transactions
+* Total Products
+* Average Branch Rating
 
 2. **Interactive visualizations using charts and tables**
 * Bar Chart 10 Cabang Provinsi dengan Transaksi Tertinggi: Shows insights about which provinces have the highest number of transactions.
