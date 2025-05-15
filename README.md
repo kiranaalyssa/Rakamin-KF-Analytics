@@ -25,6 +25,7 @@ The dashboard shows data in the form of actual numbers and visual charts. Here i
 ![Image](https://github.com/user-attachments/assets/6d1c9487-f1d5-40ed-bd14-9e378663cd3d)
 
 1. **Key Performance Indicators (KPIs) that show real-time data counts**
+
 The summary section is used to display the company’s actual data, including:
 * Total Profit
 * Total Sales
