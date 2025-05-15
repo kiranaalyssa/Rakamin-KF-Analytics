@@ -1,5 +1,5 @@
 # **Rakamin-KF-Analytics**
-This repository contains the final assignment for the *Project-Based Virtual Internship* at Rakamin Academy in collaboration with Kimia Farma as a Big Data Analytics.
+This repository contains the final assignment for the **Project-Based Virtual Internship** at Rakamin Academy in collaboration with Kimia Farma as a Big Data Analytics.
 
 ## Business Understanding
 The company wants to evaluate Kimia Farma's business performance from **2020 to 2023** to understand growth trends, operational efficiency, and areas that need improvement. This project aims to find useful insights from historical data to help the company make better decisions in the future.
