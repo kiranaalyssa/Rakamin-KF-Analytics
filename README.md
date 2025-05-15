@@ -14,5 +14,10 @@ Based on the business problem above, an interactive dashboard is needed to visua
 6. What is the total profit distribution by province shown in an Indonesia Geo Map?
 
 ## Project Scope
-* BigQuery Sandbox – Used for data processing and merging.
-* Looker Studio – Utilized for visualizing the analysis results.
+In this final project, the dataset is analyzed using BigQuery Sandbox by using SQL JOIN ON queries to enable working with data stored in different tables within the kimia_farma database. After that, a dashboard is created using Looker Studio, which connects to the data in BigQuery.
+In short:
+* BigQuery Sandbox – Used for processing and combining data.
+* Looker Studio – Used for showing the analysis results in a dashboard.
+
+## Business Dasboard
+1. 
