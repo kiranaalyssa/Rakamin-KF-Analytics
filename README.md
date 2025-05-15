@@ -21,6 +21,7 @@ In short:
 
 ## Business Dasboard
 The dashboard shows data in the form of actual numbers and visual charts. Here is the explanation of each feature in the dashboard:
+
 ![Image](https://github.com/user-attachments/assets/6d1c9487-f1d5-40ed-bd14-9e378663cd3d)
 
 1. **Key Performance Indicators (KPIs) that show real-time data counts**
@@ -41,6 +42,16 @@ The summary section is used to display the company’s actual data, including:
 * Geo Map Total Profit per Provinsi di Indonesia: Displays a map of Indonesia showing total profit by province.
 
 ## Conclusion
+From the dashboard, we can find several key insights about the business performance of Kimia Farma, including:
+1. West Java Province had the highest total profit compared to other provinces.
+2. The product group with the highest profit was Psycholeptics, Hypnotics & Sedative Drugs.
+3. West Java also recorded the highest net sales.
+4. The branch in North Sumatra Province, especially in Pematangsiantar City, had a high customer rating but low transaction rating.
+5. The year 2022 was the year with the highest company revenue during the analysis period.
 
-## Rekomendasi Business Action
-
+## Business Recommendations
+* Review the 2022 strategy that gave the highest revenue, and focus on keeping top-performing products and branches.
+* Improve stock and distribution in West Java, North Sumatra, and Central Java. Apply the same strategy in other provinces.
+* Maximize sales in top provinces, and offer discounts in areas with lower net sales.
+* Use customer feedback to improve the transaction process.
+* Focus on high-profit products (like Psycholeptics), and promote low-profit products through customer education.
