@@ -20,4 +20,27 @@ In short:
 * Looker Studio – Used for showing the analysis results in a dashboard.
 
 ## Business Dasboard
-1. 
+The dashboard shows data in the form of actual numbers and visual charts. Here is the explanation of each feature in the dashboard:
+![Image](https://github.com/user-attachments/assets/6d1c9487-f1d5-40ed-bd14-9e378663cd3d)
+
+1. **Key Performance Indicators (KPIs) that show real-time data counts**
+The summary section is used to display the company’s actual data, including:
+* Total profit
+* Total sales
+* Total number of customers
+* Total transactions
+* Total products
+* Average branch rating
+
+2. **Interactive visualizations using charts and tables**
+* Bar Chart 10 Cabang Provinsi dengan Transaksi Tertinggi: Shows insights about which provinces have the highest number of transactions.
+* Pie Chart Total Profit per Produk: Displays a comparison of profit for each product.
+* Bar Chart 10 Cabang Provinsi dengan Nett Sales Tertinggi: Highlights the provinces with the highest nett sales values.
+* Pivot Table 5 Cabang dengan Rating Tertinggi namun Transaksi Terendah: Shows branches that have high customer ratings but low transaction volume.
+* Line Chart Perbandingan Pendapatan per Tahun: Visualizes revenue trends from 2020 to 2023.
+* Geo Map Total Profit per Provinsi di Indonesia: Displays a map of Indonesia showing total profit by province.
+
+## Conclusion
+
+## Rekomendasi Business Action
+
